@@ -1,7 +1,11 @@
 ---
 
 <p align="center">
-  ![xGh05t's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGh05t&show_icons=true&theme=dracula)
+  <img src = "https://github-readme-stats.vercel.app/api?username=zyairelai&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" width = 460>
+</p>
+
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=xGh05t&show_icons=true&theme=dracula">
 </p>
   
 ---
