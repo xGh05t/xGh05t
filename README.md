@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-![xGh05t's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGh05t&show_icons=true&theme=dracula)
+  ![xGh05t's GitHub stats](https://github-readme-stats.vercel.app/api?username=xGh05t&show_icons=true&theme=dracula)
 </p>
   
 ---
