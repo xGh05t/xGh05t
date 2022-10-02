@@ -5,9 +5,9 @@
 </p>
   
 ---
-
-- 👋 Hi, I’m @xGh05t
-- 👀 I’m interested in things that go beep and boop
-- 🌱 I’m currently learning all computer things
-- 💞️ I’m looking to collaborate on offensive cyber
+## ☠~# id uid=0(xGh05t)
+- 👋 Hello All.
+- 👀 I’m interested in things within the ether...
+- 🌱 I’m currently learning all computer things.
+- 💞️ I’m looking to collaborate on offensive cyber.
 - 📫 How to reach me ... (Yeah, how do I do that?)
