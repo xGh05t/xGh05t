@@ -12,6 +12,6 @@
 
 ---
 Visit [**xGh05t_Guides**](https://github.com/xGh05t/xGuides) for some possible useful cyber fun.
-Visit [**xGh05t_Guides**](https://github.com/xGh05t/xScripts) for some script fun.
 
+Visit [**xGh05t_Guides**](https://github.com/xGh05t/xScripts) for some script fun.
 
