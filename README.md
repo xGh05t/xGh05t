@@ -12,6 +12,22 @@
 
 ---
 Visit [**xGh05t_Guides**](https://github.com/xGh05t/xGuides) for some possible useful cyber fun.
-
+<br>
 Visit [**xGh05t_Scripts**](https://github.com/xGh05t/xScripts) for some script fun.
 
+<h1 align="center">
+  <samp>
+    <b>
+       ⚔️ CTF Profiles ⚔️
+    </b>
+  </samp>
+</h1>
+
+<div align="center">
+  
+| Online Battlefield | Teleport Portal | Body Count | 
+|:---:|:---:|:---:|
+| [HackTheBox](https://app.hackthebox.com/profile/355956) | [**WRITEUPS**](https://github.com/xGh05t/HTB) | <a href="https://www.hackthebox.com/profile/355956"><img src="http://www.hackthebox.com/badge/image/355956" alt="HackTheBox"></a> |
+
+  
+</div>
