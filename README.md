@@ -18,7 +18,7 @@ Visit [**xGh05t_Scripts**](https://github.com/xGh05t/xScripts) for some script f
 <h1 align="center">
   <samp>
     <b>
-       ⚔️ HackThePlanet ⚔️
+       ⚔️ Hack The Planet ⚔️
     </b>
   </samp>
 </h1>
