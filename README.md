@@ -27,7 +27,7 @@ Visit [**xGh05t_Scripts**](https://github.com/xGh05t/xScripts) for some script f
   
 | Online Battlefield | Teleport Portal | Body Count | 
 |:---:|:---:|:---:|
-| [HackTheBox](https://app.hackthebox.com/profile/355956) | [**WRITEUPS**](https://github.com/xGh05t/HTB) | <a href="https://www.hackthebox.com/profile/355956"><img src="http://www.hackthebox.com/badge/image/355956" alt="HackTheBox"></a> |
+| [HackTheBox](https://app.hackthebox.com/profile/355956) | [**Notes**](https://github.com/xGh05t/HTB) | <a href="https://www.hackthebox.com/profile/355956"><img src="http://www.hackthebox.com/badge/image/355956" alt="HackTheBox"></a> |
 
   
 </div>
